@@ -14,7 +14,7 @@ public class Prices {
         int discount = 100;
 
         int sumPriceWidthDiscount = productPriceA + productPriceB - discount;
-        System.out.println("Summary price width discount: " + sumPriceWidthDiscount);
+        System.out.println("Summary price with discount: " + sumPriceWidthDiscount);
         System.out.println("Discount: " + discount);
     }
 }
